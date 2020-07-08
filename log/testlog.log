@@ -1,0 +1,306 @@
+2020-06-27 10:31:58,403 - R -INFO - **************Base URL is open********
+2020-06-27 10:31:58,572 - R -INFO - *************Entered Username********
+2020-06-27 10:31:58,688 - R -INFO - **************Entered Password*********
+2020-06-27 10:32:07,569 - R -INFO - ************Login Test Pass********
+2020-06-29 09:57:43,444 - R -INFO - **************Base URL is open********
+2020-06-29 09:57:43,595 - R -INFO - *************Entered Username********
+2020-06-29 09:57:43,697 - R -INFO - **************Entered Password*********
+2020-06-29 09:57:48,806 - R -INFO - ************Login Test Pass********
+2020-06-30 14:14:36,496 - R -INFO - **************Base URL is open********
+2020-06-30 14:14:36,738 - R -INFO - *************Entered Username********
+2020-06-30 14:14:36,838 - R -INFO - **************Entered Password*********
+2020-06-30 14:14:44,887 - R -INFO - ************Login Test Pass********
+2020-06-30 14:46:15,530 - R -INFO - **************Base URL is open********
+2020-06-30 14:46:15,673 - R -INFO - *************Entered Username********
+2020-06-30 14:46:15,766 - R -INFO - **************Entered Password*********
+2020-06-30 14:46:43,663 - R -INFO - ************Login Test Pass********
+2020-06-30 17:45:54,037 - R -INFO - **************Base URL is open********
+2020-06-30 17:45:54,192 - R -INFO - *************Entered Username********
+2020-06-30 17:45:54,297 - R -INFO - **************Entered Password*********
+2020-06-30 17:45:59,437 - R -INFO - ************Login Test Pass********
+2020-07-01 09:32:32,657 - R -INFO - **************Base URL is open********
+2020-07-01 09:32:33,166 - R -INFO - *************Entered Username********
+2020-07-01 09:32:33,267 - R -INFO - **************Entered Password*********
+2020-07-01 09:32:44,718 - R -INFO - ************Login Test Pass********
+2020-07-01 09:33:51,979 - R -INFO - **************Base URL is open********
+2020-07-01 09:33:52,132 - R -INFO - *************Entered Username********
+2020-07-01 09:33:52,232 - R -INFO - **************Entered Password*********
+2020-07-01 09:33:54,614 - R -INFO - ************Login Test Pass********
+2020-07-01 09:34:40,852 - R -INFO - **************Base URL is open********
+2020-07-01 09:34:41,324 - R -INFO - *************Entered Username********
+2020-07-01 09:34:41,426 - R -INFO - **************Entered Password*********
+2020-07-01 09:38:18,686 - R -INFO - **************Base URL is open********
+2020-07-01 09:38:22,046 - R -INFO - *************Entered Username********
+2020-07-01 09:38:22,150 - R -INFO - **************Entered Password*********
+2020-07-01 09:40:57,700 - R -INFO - **************Base URL is open********
+2020-07-01 09:40:57,843 - R -INFO - *************Entered Username********
+2020-07-01 09:40:57,932 - R -INFO - **************Entered Password*********
+2020-07-01 09:41:03,371 - R -INFO - ************Login Test Failed********
+2020-07-01 09:42:02,704 - R -INFO - **************Base URL is open********
+2020-07-01 09:42:02,850 - R -INFO - *************Entered Username********
+2020-07-01 09:42:02,949 - R -INFO - **************Entered Password*********
+2020-07-01 09:42:05,204 - R -INFO - ************Login Test Pass********
+2020-07-01 19:27:48,658 - R -INFO - **************Base URL is open********
+2020-07-01 19:27:48,802 - R -INFO - *************Entered Username********
+2020-07-01 19:27:48,898 - R -INFO - **************Entered Password*********
+2020-07-01 19:27:50,264 - R -INFO - ************Login Test Pass********
+2020-07-01 20:05:28,194 - R -INFO - Provided Username
+2020-07-01 20:05:28,313 - R -INFO - Provided Password
+2020-07-01 20:05:28,398 - R -INFO - Submit login
+2020-07-01 20:05:30,625 - R -WARN - The Login Passed
+2020-07-01 20:24:44,740 - R -INFO - Provided Username
+2020-07-01 20:24:49,595 - R -INFO - Provided Password
+2020-07-01 20:24:49,669 - R -INFO - Submit login
+2020-07-02 09:48:29,029 - R -INFO - Provided Username
+2020-07-02 09:48:29,133 - R -INFO - Provided Password
+2020-07-02 09:48:29,207 - R -INFO - Submit login
+2020-07-02 09:52:51,011 - R -INFO - Provided Username
+2020-07-02 09:52:51,101 - R -INFO - Provided Password
+2020-07-02 09:52:59,616 - R -INFO - Submit login
+2020-07-02 09:52:59,634 - R -INFO - The Login Passed
+2020-07-02 09:53:02,705 - R -INFO - Logged Out From Application
+2020-07-02 12:35:13,833 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 12:35:13,931 - R -INFO -  ******Password is provided ****** 
+2020-07-02 12:35:19,146 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 12:35:19,949 - R -INFO -  ******Added New Customer Name ****** 
+2020-07-02 12:35:20,006 - R -INFO -  ******Added New Customer Gender ****** 
+2020-07-02 12:35:20,160 - R -INFO -  ******Added New Customer DOB  ****** 
+2020-07-02 12:35:23,867 - R -INFO -  ******Added New Customers Address ****** 
+2020-07-02 12:35:23,948 - R -INFO -  ******Added New Customer's City ****** 
+2020-07-02 12:35:24,015 - R -INFO -  ******Added New Customer's State ****** 
+2020-07-02 12:35:24,142 - R -INFO -  ******Added New Customer's City Pin No ****** 
+2020-07-02 12:35:24,281 - R -INFO -  ******Added New Customer's Phone Number ****** 
+2020-07-02 12:35:24,429 - R -INFO -  ******Added New Customer's Email ID ****** 
+2020-07-02 12:39:45,882 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 12:39:46,021 - R -INFO -  ******Password is provided ****** 
+2020-07-02 12:39:51,557 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 12:42:07,410 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 12:42:07,592 - R -INFO -  ******Password is provided ****** 
+2020-07-02 12:42:13,684 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 12:49:58,325 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 12:49:58,423 - R -INFO -  ******Password is provided ****** 
+2020-07-02 12:50:01,511 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 13:08:29,077 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 13:08:29,189 - R -INFO -  ******Password is provided ****** 
+2020-07-02 13:08:53,136 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 14:01:26,206 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 14:01:26,298 - R -INFO -  ******Password is provided ****** 
+2020-07-02 14:01:29,373 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 14:01:37,899 - R -INFO - validation started....
+2020-07-02 14:19:23,195 - R -INFO - **************Base URL is open********
+2020-07-02 14:19:23,352 - R -INFO - *************Entered Username********
+2020-07-02 14:19:23,451 - R -INFO - **************Entered Password*********
+2020-07-02 14:19:24,472 - R -INFO - ************Login Test Failed********
+2020-07-02 14:20:35,475 - R -INFO - **************Base URL is open********
+2020-07-02 14:20:35,611 - R -INFO - *************Entered Username********
+2020-07-02 14:20:35,716 - R -INFO - **************Entered Password*********
+2020-07-02 14:20:37,052 - R -INFO - ************Login Test Pass********
+2020-07-02 15:52:42,503 - R -INFO - Provided Username
+2020-07-02 15:52:42,591 - R -INFO - Provided Password
+2020-07-02 15:52:48,536 - R -INFO - Submit login
+2020-07-02 15:52:48,551 - R -INFO - The Login Passed
+2020-07-02 15:52:52,921 - R -INFO - Logged Out From Application
+2020-07-02 15:52:54,946 - R -INFO - Provided Username
+2020-07-02 15:52:55,036 - R -INFO - Provided Password
+2020-07-02 15:52:55,499 - R -INFO - Submit login
+2020-07-02 15:52:55,511 - R -INFO - The Login failed
+2020-07-02 15:52:57,276 - R -INFO - Provided Username
+2020-07-02 15:52:57,379 - R -INFO - Provided Password
+2020-07-02 15:52:57,819 - R -INFO - Submit login
+2020-07-02 15:52:57,828 - R -INFO - The Login failed
+2020-07-02 15:52:59,754 - R -INFO - Provided Username
+2020-07-02 15:52:59,836 - R -INFO - Provided Password
+2020-07-02 15:53:01,232 - R -INFO - Submit login
+2020-07-02 15:53:01,244 - R -INFO - The Login failed
+2020-07-02 15:53:04,322 - R -INFO - Provided Username
+2020-07-02 15:53:04,400 - R -INFO - Provided Password
+2020-07-02 15:53:05,979 - R -INFO - Submit login
+2020-07-02 15:53:06,649 - R -INFO - The Login Passed
+2020-07-02 15:53:11,000 - R -INFO - Logged Out From Application
+2020-07-02 15:56:25,840 - R -INFO - **************Base URL is open********
+2020-07-02 15:56:25,976 - R -INFO - *************Entered Username********
+2020-07-02 15:56:26,071 - R -INFO - **************Entered Password*********
+2020-07-02 15:56:27,258 - R -INFO - ************Login Test Pass********
+2020-07-02 15:56:42,857 - R -INFO - Provided Username
+2020-07-02 15:56:42,973 - R -INFO - Provided Password
+2020-07-02 15:56:43,040 - R -INFO - Submit login
+2020-07-02 15:56:44,063 - R -INFO - The Login Passed
+2020-07-02 15:56:49,935 - R -INFO - Logged Out From Application
+2020-07-02 15:56:52,435 - R -INFO - Provided Username
+2020-07-02 15:56:52,520 - R -INFO - Provided Password
+2020-07-02 15:56:54,350 - R -INFO - Submit login
+2020-07-02 15:56:54,361 - R -INFO - The Login failed
+2020-07-02 15:56:56,765 - R -INFO - Provided Username
+2020-07-02 15:56:56,850 - R -INFO - Provided Password
+2020-07-02 15:56:57,535 - R -INFO - Submit login
+2020-07-02 15:56:57,550 - R -INFO - The Login failed
+2020-07-02 15:56:59,645 - R -INFO - Provided Username
+2020-07-02 15:56:59,738 - R -INFO - Provided Password
+2020-07-02 15:57:00,316 - R -INFO - Submit login
+2020-07-02 15:57:00,326 - R -INFO - The Login failed
+2020-07-02 15:57:02,694 - R -INFO - Provided Username
+2020-07-02 15:57:02,784 - R -INFO - Provided Password
+2020-07-02 15:57:04,542 - R -INFO - Submit login
+2020-07-02 15:57:04,545 - R -INFO - The Login Passed
+2020-07-02 15:57:08,686 - R -INFO - Logged Out From Application
+2020-07-02 15:57:23,713 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 15:57:23,801 - R -INFO -  ******Password is provided ****** 
+2020-07-02 15:57:26,877 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 15:57:35,069 - R -INFO - validation started....
+2020-07-02 16:07:07,653 - R -INFO - **************Base URL is open********
+2020-07-02 16:07:07,828 - R -INFO - *************Entered Username********
+2020-07-02 16:07:07,954 - R -INFO - **************Entered Password*********
+2020-07-02 16:07:51,057 - R -INFO - ************Login Test Pass********
+2020-07-02 16:08:22,055 - R -INFO - Provided Username
+2020-07-02 16:08:22,195 - R -INFO - Provided Password
+2020-07-02 16:08:22,283 - R -INFO - Submit login
+2020-07-02 16:08:24,311 - R -INFO - The Login Passed
+2020-07-02 16:08:43,487 - R -INFO - Logged Out From Application
+2020-07-02 16:09:26,971 - R -INFO - Provided Username
+2020-07-02 16:09:27,046 - R -INFO - Provided Password
+2020-07-02 16:09:32,118 - R -INFO - Submit login
+2020-07-02 16:09:32,126 - R -INFO - The Login Passed
+2020-07-02 16:09:42,248 - R -INFO - Provided Username
+2020-07-02 16:09:42,320 - R -INFO - Provided Password
+2020-07-02 16:09:47,377 - R -INFO - Submit login
+2020-07-02 16:09:47,381 - R -INFO - The Login Passed
+2020-07-02 16:09:57,494 - R -INFO - Provided Username
+2020-07-02 16:09:57,543 - R -INFO - Provided Password
+2020-07-02 16:10:02,593 - R -INFO - Submit login
+2020-07-02 16:10:02,603 - R -INFO - The Login Passed
+2020-07-02 16:10:12,748 - R -INFO - Provided Username
+2020-07-02 16:10:12,800 - R -INFO - Provided Password
+2020-07-02 16:10:17,848 - R -INFO - Submit login
+2020-07-02 16:10:17,852 - R -INFO - The Login Passed
+2020-07-02 16:10:42,673 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 16:10:42,773 - R -INFO -  ******Password is provided ****** 
+2020-07-02 16:10:45,847 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 16:10:54,592 - R -INFO - validation started....
+2020-07-02 16:24:30,006 - R -INFO - **************Base URL is open********
+2020-07-02 16:24:30,154 - R -INFO - *************Entered Username********
+2020-07-02 16:24:30,265 - R -INFO - **************Entered Password*********
+2020-07-02 16:24:31,642 - R -INFO - ************Login Test Pass********
+2020-07-02 16:24:40,510 - R -INFO - Provided Username
+2020-07-02 16:24:40,611 - R -INFO - Provided Password
+2020-07-02 16:24:45,679 - R -INFO - Submit login
+2020-07-02 16:24:45,693 - R -INFO - The Login Passed
+2020-07-02 16:24:49,554 - R -INFO - Logged Out From Application
+2020-07-02 16:24:52,098 - R -INFO - Provided Username
+2020-07-02 16:24:52,189 - R -INFO - Provided Password
+2020-07-02 16:24:53,169 - R -INFO - Submit login
+2020-07-02 16:24:53,179 - R -INFO - The Login failed
+2020-07-02 16:24:55,541 - R -INFO - Provided Username
+2020-07-02 16:24:55,625 - R -INFO - Provided Password
+2020-07-02 16:24:56,506 - R -INFO - Submit login
+2020-07-02 16:24:56,518 - R -INFO - The Login failed
+2020-07-02 16:24:59,114 - R -INFO - Provided Username
+2020-07-02 16:24:59,191 - R -INFO - Provided Password
+2020-07-02 16:24:59,845 - R -INFO - Submit login
+2020-07-02 16:24:59,854 - R -INFO - The Login failed
+2020-07-02 16:25:01,757 - R -INFO - Provided Username
+2020-07-02 16:25:01,852 - R -INFO - Provided Password
+2020-07-02 16:25:04,183 - R -INFO - Submit login
+2020-07-02 16:25:04,187 - R -INFO - The Login Passed
+2020-07-02 16:25:08,828 - R -INFO - Logged Out From Application
+2020-07-02 16:25:24,029 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 16:25:24,116 - R -INFO -  ******Password is provided ****** 
+2020-07-02 16:25:27,203 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 16:25:35,746 - R -INFO - validation started....
+2020-07-02 18:08:42,655 - R -INFO - **************Base URL is open********
+2020-07-02 18:08:42,835 - R -INFO - *************Entered Username********
+2020-07-02 18:08:42,962 - R -INFO - **************Entered Password*********
+2020-07-02 18:08:46,807 - R -INFO - ************Login Test Pass********
+2020-07-02 18:09:12,015 - R -INFO - Provided Username
+2020-07-02 18:09:12,131 - R -INFO - Provided Password
+2020-07-02 18:09:18,431 - R -INFO - Submit login
+2020-07-02 18:09:18,447 - R -INFO - The Login Passed
+2020-07-02 18:09:28,084 - R -INFO - Logged Out From Application
+2020-07-02 18:09:29,674 - R -INFO - Provided Username
+2020-07-02 18:09:29,779 - R -INFO - Provided Password
+2020-07-02 18:09:33,080 - R -INFO - Submit login
+2020-07-02 18:09:33,093 - R -INFO - The Login failed
+2020-07-02 18:09:39,172 - R -INFO - Provided Username
+2020-07-02 18:09:39,259 - R -INFO - Provided Password
+2020-07-02 18:09:40,027 - R -INFO - Submit login
+2020-07-02 18:09:40,038 - R -INFO - The Login failed
+2020-07-02 18:09:50,463 - R -INFO - Provided Username
+2020-07-02 18:09:50,549 - R -INFO - Provided Password
+2020-07-02 18:09:55,616 - R -INFO - Submit login
+2020-07-02 18:09:55,620 - R -INFO - The Login Passed
+2020-07-02 18:10:06,331 - R -INFO - Provided Username
+2020-07-02 18:10:06,403 - R -INFO - Provided Password
+2020-07-02 18:10:11,449 - R -INFO - Submit login
+2020-07-02 18:10:11,453 - R -INFO - The Login Passed
+2020-07-02 18:10:34,991 - R -INFO -  ******User Name is provided ****** 
+2020-07-02 18:10:35,078 - R -INFO -  ******Password is provided ****** 
+2020-07-02 18:10:38,156 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-02 18:10:46,418 - R -INFO - ******validation started*******
+2020-07-06 10:16:42,937 - R -INFO - **************Base URL is open********
+2020-07-06 10:16:43,180 - R -INFO - *************Entered Username********
+2020-07-06 10:16:43,280 - R -INFO - **************Entered Password*********
+2020-07-06 10:16:46,751 - R -INFO - ************Login Test Pass********
+2020-07-06 10:17:02,631 - R -INFO - Provided Username
+2020-07-06 10:17:02,759 - R -INFO - Provided Password
+2020-07-06 10:17:17,585 - R -INFO - Submit login
+2020-07-06 10:17:17,610 - R -INFO - The Login Passed
+2020-07-06 10:17:29,188 - R -INFO - Logged Out From Application
+2020-07-06 10:17:34,244 - R -INFO - Provided Username
+2020-07-06 10:17:34,335 - R -INFO - Provided Password
+2020-07-06 10:17:35,229 - R -INFO - Submit login
+2020-07-06 10:17:35,241 - R -INFO - The Login failed
+2020-07-06 10:17:37,103 - R -INFO - Provided Username
+2020-07-06 10:17:37,176 - R -INFO - Provided Password
+2020-07-06 10:17:37,740 - R -INFO - Submit login
+2020-07-06 10:17:37,751 - R -INFO - The Login failed
+2020-07-06 10:17:39,677 - R -INFO - Provided Username
+2020-07-06 10:17:39,778 - R -INFO - Provided Password
+2020-07-06 10:17:40,470 - R -INFO - Submit login
+2020-07-06 10:17:40,483 - R -INFO - The Login failed
+2020-07-06 10:17:42,947 - R -INFO - Provided Username
+2020-07-06 10:17:43,035 - R -INFO - Provided Password
+2020-07-06 10:17:44,715 - R -INFO - Submit login
+2020-07-06 10:17:44,719 - R -INFO - The Login Passed
+2020-07-06 10:17:48,624 - R -INFO - Logged Out From Application
+2020-07-06 10:18:10,975 - R -INFO -  ******User Name is provided ****** 
+2020-07-06 10:18:11,074 - R -INFO -  ******Password is provided ****** 
+2020-07-06 10:18:15,840 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-06 10:18:24,351 - R -INFO - ******validation started*******
+2020-07-06 14:21:58,473 - R -INFO - **************Base URL is open********
+2020-07-06 14:21:58,714 - R -INFO - *************Entered Username********
+2020-07-06 14:21:58,806 - R -INFO - **************Entered Password*********
+2020-07-06 14:22:00,623 - R -INFO - ************Login Test Pass********
+2020-07-06 14:22:14,966 - R -INFO - Provided Username
+2020-07-06 14:22:15,069 - R -INFO - Provided Password
+2020-07-06 14:22:16,030 - R -INFO - Submit login
+2020-07-06 14:22:16,905 - R -INFO - The Login Passed
+2020-07-06 14:22:20,656 - R -INFO - Logged Out From Application
+2020-07-06 14:22:22,766 - R -INFO - Provided Username
+2020-07-06 14:22:22,851 - R -INFO - Provided Password
+2020-07-06 14:22:23,639 - R -INFO - Submit login
+2020-07-06 14:22:23,648 - R -INFO - The Login failed
+2020-07-06 14:22:26,431 - R -INFO - Provided Username
+2020-07-06 14:22:26,520 - R -INFO - Provided Password
+2020-07-06 14:22:27,335 - R -INFO - Submit login
+2020-07-06 14:22:27,346 - R -INFO - The Login failed
+2020-07-06 14:22:29,577 - R -INFO - Provided Username
+2020-07-06 14:22:29,653 - R -INFO - Provided Password
+2020-07-06 14:22:30,259 - R -INFO - Submit login
+2020-07-06 14:22:30,270 - R -INFO - The Login failed
+2020-07-06 14:22:32,767 - R -INFO - Provided Username
+2020-07-06 14:22:32,853 - R -INFO - Provided Password
+2020-07-06 14:22:35,079 - R -INFO - Submit login
+2020-07-06 14:22:35,085 - R -INFO - The Login Passed
+2020-07-06 14:22:39,625 - R -INFO - Logged Out From Application
+2020-07-06 14:22:51,692 - R -INFO -  ******User Name is provided ****** 
+2020-07-06 14:22:51,783 - R -INFO -  ******Password is provided ****** 
+2020-07-06 14:22:58,114 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-06 14:23:06,469 - R -INFO - ******validation started*******
+2020-07-06 15:01:47,710 - R -INFO - **************Base URL is open********
+2020-07-06 15:01:47,865 - R -INFO - *************Entered Username********
+2020-07-06 15:01:47,958 - R -INFO - **************Entered Password*********
+2020-07-06 15:01:51,802 - R -INFO - ************Login Test Pass********
+2020-07-06 15:07:05,449 - R -INFO -  ******User Name is provided ****** 
+2020-07-06 15:07:05,579 - R -INFO -  ******Password is provided ****** 
+2020-07-06 15:07:13,377 - R -INFO -  ******Feeding Customer Data ****** 
+2020-07-06 15:07:23,622 - R -INFO - ******validation started*******
+2020-07-06 15:07:23,663 - R -INFO -  ******Obsersed Issue while Adding new Customer  ****** 
