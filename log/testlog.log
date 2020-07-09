@@ -304,3 +304,7 @@
 2020-07-06 15:07:13,377 - R -INFO -  ******Feeding Customer Data ****** 
 2020-07-06 15:07:23,622 - R -INFO - ******validation started*******
 2020-07-06 15:07:23,663 - R -INFO -  ******Obsersed Issue while Adding new Customer  ****** 
+2020-07-09 14:45:09,237 - R -INFO - **************Base URL is open********
+2020-07-09 14:45:09,446 - R -INFO - *************Entered Username********
+2020-07-09 14:45:09,556 - R -INFO - **************Entered Password*********
+2020-07-09 14:45:13,046 - R -INFO - ************Login Test Pass********
